@@ -75,7 +75,7 @@ To complete Part III, fulfill the following requirements:
 
 To complete Part IV, fulfill the following requirements:
 
-1. Brainstorm what you would like to make a coming soon page for (upcoming movie, game...etc.). Sketch out any ideas.
+1. Brainstorm what you would like to make a coming soon page for (upcoming movie, game...etc.). Sketch out any ideas. If you are out of ideas, ask the instructor! They will assume the role of a "client" and will ask you to build a preview website for them. 
 2. Incorporate the following in your preview site:
 * Navigation bar with links to the different sections on that same page. See HTML Link Bookmarking: https://www.w3schools.com/html/html_links.asp
 * Sticky social bar - Ex. https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
