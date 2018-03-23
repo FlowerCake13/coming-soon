@@ -24,6 +24,7 @@ body{
 
 .icon-bar{
 	position: fixed;
+	z-index: 3;
 	top: 50%;
 	transform: translateY(-50%);
 }
@@ -41,8 +42,28 @@ body{
 	background-color: #000;
 }
 
-.instagram{
-	background: #517fa4;
+#insta1{
+	background: #bc2a8d;
+	color: white;
+}
+
+#insta2{
+	background: #4c68d7;
+	color: white;
+}
+
+.snapchat{
+	background: #fffc00;
+	color: white;
+}
+
+.spotify{
+	background: #1ED760;
+	color: black;
+}
+
+.github{
+	background: #000000;
 	color: white;
 }
 
